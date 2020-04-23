@@ -12,7 +12,7 @@ int main() {
     // Since there are 2 red marbles and 4 blue marbles left after the first drawn
     // Then the chance to get a blue marble is 4/(2+4) = 1/3
 
-    cout << "1/3" << endl;
+    cout << "2/3" << endl;
 
     return 0;
 }
